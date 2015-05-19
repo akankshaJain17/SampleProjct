@@ -1,3 +1,7 @@
+// Prime Number Sample Java Program for practice
+
+// Run Time complexity - O(n/2)
+
 import java.util.*;
 
 class Practice
