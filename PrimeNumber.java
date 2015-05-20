@@ -12,6 +12,8 @@ class Practice
 		boolean c = isPrime(n);
 		System.out.println(n + "is a Prime Number :" + c );
 	 
+	 
+	 
 	}
 	
 	public static boolean isPrime(int n)
