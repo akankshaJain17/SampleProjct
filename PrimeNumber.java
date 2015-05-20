@@ -31,6 +31,15 @@ class Practice
 		}
 		return true;
 	}
+
+	/*
+	* /brief Prints prime numbers from 2 to m
+	*
+	* Runtime complexity of this program is:
+	*/
+	public static void nPrimes(int m)
+	{
+	}
 	
 	
 }
