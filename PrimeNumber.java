@@ -16,6 +16,9 @@ class Practice
 	 
 	}
 	
+	/*
+	Run time complexity: O(n)
+	*/
 	public static boolean isPrime(int n)
 	{
 		for(int i = 2; i<=n/2; i++)
