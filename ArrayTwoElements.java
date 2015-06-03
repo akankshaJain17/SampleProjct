@@ -27,7 +27,7 @@ class Ideone
 	
 	public static void printArray(int[] ar, int m)
 	{
-		for(int i=0;i<6;i++)
+		for(int i=0;i<m;i++)
 		{
 			System.out.println(ar[i]);
 		}
